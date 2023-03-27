@@ -5,7 +5,4 @@ un progetto open source.
 
 ## Indice dei repository
 
-- [Repository 1](https://developers.italia.it): questo reposutory contiene 
-tutta la documentazione di Developers Italia
-- [Repository 2](https://twitter.com): questo repository contiene il 
-codice principale
+- [Far-Lock Library](https://github.com/far-lock/far-lock): questo reposutory contiene la libreria principale del progetto.
